@@ -66,6 +66,7 @@ Practiced debugging through trial-and-error testing and code adjustments.
 ## 📸 Demo
 
 Game Glitch Investigator interface showing a number guessing game with dark theme. Left sidebar displays Settings with Difficulty set to Easy, range 1 to 20, and 6 attempts allowed. Main content area shows the game title with a purple game controller icon, subtitle An AI-generated guessing game. Something is off., and a Make a guess section with input field prompting Enter your guess. Three buttons are visible: Submit Guess, New Game, and Show hint. Below is an expanded Developer Debug Info section displaying Secret: 8, Attempts: 0, Score: 0, Difficulty: Easy, and History with an empty array. At the bottom, text states Built by an AI that claims this code is production-ready. A deployment indicator appears in the top right corner.
+<img width="1874" height="1013" alt="Screenshot 2026-03-08 220139" src="https://github.com/user-attachments/assets/0d69f41d-ff22-4c9a-8547-930466c5821d" />
 
 ## 🚀 Stretch Features
 
